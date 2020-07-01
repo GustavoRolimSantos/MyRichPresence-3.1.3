@@ -1,0 +1,36 @@
+{
+  "profileName": "Default",
+  "appId": "401775087440756737",
+  "details": "MaxterCreations",
+  "state": "https://maxtercreations.com.br",
+  "showTimer": false,
+  "isCountingUp": true,
+  "countdownSeconds": 0,
+  "curPlayers": 0,
+  "maxPlayers": 0,
+  "customImages": [
+    "superhot",
+    "pubg",
+    "fortnite",
+    "overwatch",
+    "chip",
+    "csgo",
+    "magnet",
+    "smile",
+    "myrpc",
+    "computer",
+    "xbox",
+    "playstation",
+    "nintendo"
+  ],
+  "largeImage": {
+    "enabled": false,
+    "imageKey": "",
+    "imageText": ""
+  },
+  "smallImage": {
+    "enabled": false,
+    "imageKey": "",
+    "imageText": ""
+  }
+}
